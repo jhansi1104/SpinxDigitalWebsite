@@ -1,0 +1,2 @@
+# SpinxDigitalWebsite
+Make a frontend clone of the landing page of https://www.spinxdigital.com/ ● You just need to make the frontend part of this website(only landing page), which should be responsive. ● You should try to add animations similar to that provided on this page. ● Your frontend part includes making the navigation bar, accordions, carousels, and other components. ● You can use the images provided on the website, or you can use your pictures as well.
