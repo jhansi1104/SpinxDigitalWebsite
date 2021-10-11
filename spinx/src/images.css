@@ -6,21 +6,18 @@
     text-align: right;
     color: white;
 }
-.contactbar{
-    background-color: black;
-    width: 100%;
-    min-height: 30px;
-    max-height: 40px;
-    padding: 10px 5px 10px 0;
-}
+
+
 .container{
     position: relative;
-    color: white;
 }
-.top-right{
-    font-family: monospace;
+
+.top-left{
     position: absolute;
-    padding-top: 20%;
-    text-align: right;
+    font-family: monospace;
+    top: 15%;
+    left: 16px;
+    text-align: left;
+    font-size: x-large;
     padding-left: 10%;
 }
