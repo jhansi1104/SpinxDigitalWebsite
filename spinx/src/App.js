@@ -1,12 +1,12 @@
 import './App.css';
 import Images from './image';
+import BootstrapCarousel from './carousel'
 
 function App() {
   return (
     <div className="App">
-        <header className="App-header">
           <Images/>
-        </header>
+          <BootstrapCarousel className="carsl"></BootstrapCarousel>
     </div>
   );
 }
